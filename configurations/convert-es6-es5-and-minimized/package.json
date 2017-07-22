@@ -1,11 +1,10 @@
 {
-  "name": "es6-to-es5",
+  "name": "convert-es6-es5-and-minimized",
   "version": "1.0.0",
   "description": "",
-  "main": "webpack.config.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "webpack node dest/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
